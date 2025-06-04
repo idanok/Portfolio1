@@ -1,17 +1,26 @@
-KidGear outdoors 
-KidGear outdoors is a website build for a client with an existing API blogging application.
-You can view a responsive web application with dynamic blog posts about outdoor clothing for kids. 
+Portfolio1
+In the Portfolio1 website you can read more about me and my contact information. 
+It also consist of a github link, live link and a teaser of our 3 latest school projects. 
 
-The website includes these user stories:
-In this portfolio you’re going to self-assess i.e you’re going to evaluate your own projects, showcase and include your projects during the Frontend Programme so far.
-Create a single-page website showcasing 3 projects. For each project listed, mention in detail in the reflection report the things you would like to improve on after having done the project. By doing this, you acknowledge areas of improvement thereby motivating yourself to grow in experience and knowledge as a Frontend Developer.
+The projects: 
+- Cross Course Project (Rainydays)
+- Semester Project 1
+- Exam Project 1
 
+Included in the website: 
+- The project thumbnail
+- The project title.
+- The project description (a teaser of max 15-20 words).
+- The GitHub project repository link.
+- The project demo or live website link.
+
+The website is build with html, css and js.
 
 Fell free to contact me on Linkedln: Ida Nøkland
 
 Installing
 Clone the repository:
-bash: git clone https://github.com/idanok/Semester-exam-1-museum.git
+bash: git clone https://github.com/idanok/Portfolio1.git
 Install the dependencies:
 bash: npm install
 
